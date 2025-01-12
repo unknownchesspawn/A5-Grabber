@@ -3,17 +3,17 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="[https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=6783b120&is=67825fa0&hm=70327328cab07e0bf9ecd391b207b8cc2f5139aa03049ff8cbfeba5adb1e36f1&](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
+   <img  src="https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=6783b120&is=67825fa0&hm=70327328cab07e0bf9ecd391b207b8cc2f5139aa03049ff8cbfeba5adb1e36f1&">
    </kbd><br><br>
-   <img src="[https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
-   <img src="[https://img.shields.io/github/stars/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
-   <img src="[https://img.shields.io/github/forks/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
+   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/forks/Blank-c/Blank-Grabber">
    <br>
-   <img src="[https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
-   <img src="[https://img.shields.io/github/license/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
+   <img src="https://img.shields.io/github/last-commit/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/license/Blank-c/Blank-Grabber">
    <br>
-   <img src="[https://img.shields.io/github/issues/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
-   <img src="[https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber](https://cdn.discordapp.com/attachments/1278779420219277363/1327610498610368564/950d6573-0f49-4b8b-8ba7-55dc17429437.jpeg?ex=678502a0&is=6783b120&hm=a84c9e8537bc9a4e37f2a31b864bca7d93d908d8c4edb35f9055af0cb1ea9fd6&)">
+   <img src="https://img.shields.io/github/issues/Blank-c/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
